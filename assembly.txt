@@ -1,0 +1,8 @@
+load a000
+load a1
+and s0 s1
+load a0
+boxdot s3 3 5
+and s2 s4
+end s5
+# a[0]&a[1]&(G[3,5]a[0])
